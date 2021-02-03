@@ -1,1 +1,1 @@
-# git_test
+This is Spencer's first git project!
